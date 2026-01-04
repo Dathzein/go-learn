@@ -1,4 +1,4 @@
-package main
+package basics
 
 import "fmt"
 
@@ -26,7 +26,7 @@ func main() {
 
 }
 
-func printname(){
+func printname() {
 	firstName := "Neo"
 	fmt.Println(firstName)
 }
